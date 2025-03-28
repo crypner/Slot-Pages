@@ -97,11 +97,5 @@ The Slots Grid block allows you to configure the number of slots displayed with 
 - Added `[slots_list]` shortcode
 
 
-## Contributing
-Contributions are welcome! Please see our [Contributing Guidelines](CONTRIBUTING.md) for more details.
-
-## License
-[GPL-2.0+]
-
 ## Credits
 - Developed by [Andre De Carlo]
